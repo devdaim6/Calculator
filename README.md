@@ -1,4 +1,4 @@
 #Live Preview
 https://www.calculate-here.netlify.app
 
-<img width="100%" src="./cal.png" />
+<img width="100px" src="./cal.png" />
